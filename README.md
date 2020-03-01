@@ -1,2 +1,3 @@
 # Practice
-repo for practicing git.
+repo for practicing Only Maven project on Jenkins.
+Maven needs POM.xml to build
